@@ -1,0 +1,5 @@
+# Ignore GTZAN dataset
+GTZAN/
+
+# Ignore FMA dataset
+FMA/
